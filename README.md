@@ -1,2 +1,2 @@
 # nonebot-welcome
-welcome to my home!
+welcome to my hut!
